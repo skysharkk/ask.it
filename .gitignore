@@ -1,0 +1,12 @@
+/node_modules
+npm-debug.log
+.vscode-test
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history
+.editorconfig
